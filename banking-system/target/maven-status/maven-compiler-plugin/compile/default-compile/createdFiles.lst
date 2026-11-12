@@ -1,0 +1,11 @@
+bank/model/InvestmentAccount.class
+bank/model/Bank.class
+bank/model/Customer.class
+bank/model/Account.class
+bank/model/IInterestBearing.class
+bank/model/ITransactable.class
+bank/model/Person.class
+bank/model/SavingsAccount.class
+bank/model/App.class
+bank/model/ChequeAccount.class
+bank/model/Transaction.class

@@ -1,0 +1,11 @@
+/workspaces/bank/banking-system/src/main/java/bank/App.java
+/workspaces/bank/banking-system/src/main/java/bank/model/Account.java
+/workspaces/bank/banking-system/src/main/java/bank/model/Bank.java
+/workspaces/bank/banking-system/src/main/java/bank/model/ChequeAccount.java
+/workspaces/bank/banking-system/src/main/java/bank/model/Customer.java
+/workspaces/bank/banking-system/src/main/java/bank/model/IInterestBearing.java
+/workspaces/bank/banking-system/src/main/java/bank/model/ITransactable.java
+/workspaces/bank/banking-system/src/main/java/bank/model/InvestmentAccount.java
+/workspaces/bank/banking-system/src/main/java/bank/model/Person.java
+/workspaces/bank/banking-system/src/main/java/bank/model/SavingsAccount.java
+/workspaces/bank/banking-system/src/main/java/bank/model/Transaction.java
