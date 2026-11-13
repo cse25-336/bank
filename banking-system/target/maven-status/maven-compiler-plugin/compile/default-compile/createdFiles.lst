@@ -6,6 +6,6 @@ bank/model/IInterestBearing.class
 bank/model/ITransactable.class
 bank/model/Person.class
 bank/model/SavingsAccount.class
-bank/model/App.class
+bank/App.class
 bank/model/ChequeAccount.class
 bank/model/Transaction.class

@@ -1,4 +1,4 @@
-package bank.model;
+package bank;
 
 import bank.model.*;
 
